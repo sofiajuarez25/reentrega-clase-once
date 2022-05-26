@@ -1,0 +1,13 @@
+.carousel-inner> .item> img {
+    width: 640px; 
+    height: 360px; 
+   }
+   h1{
+    width: 100px;
+    height: 50px;
+    text-align:center;
+   }
+   h5{
+     background-color:black;  
+     opacity: 0.5;
+   }
